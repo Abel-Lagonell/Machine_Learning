@@ -1,7 +1,9 @@
-./.ipynb_checkpoints
-./bin
-./include
-./lib*
-./share
+./.ipynb_checkpoints/*
+./bin/*
+./include/*
+./lib/*
+./lib64/*
+./share/*
+
 
 
